@@ -4,6 +4,3 @@ Alexendre Beugnet
 Timothé Cayla
 Mirennda Touchard
 Sébastien Grand
-retruc
-oo
-
